@@ -38,3 +38,6 @@ My proactive approach ensures I adapt quickly and excel in a rapidly evolving te
   <p><i>"The only way to do great work is to love what you do." – Steve Jobs</i></p>
   <p><i>"The most damaging phrase in the language is ‘We’ve always done it this way.’" – Grace Hopper</i></p>
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer)
