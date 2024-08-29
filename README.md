@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20%20%20Shin%20Myung%20Hee&reversal=false&fontSize=50&desc=Frontend%20Developer&descSize=20&descAlignY=33&animation=fadeIn&fontAlignY=45)
 
 ## 😙 I am
-### A developer who is passionate about problem-solving and eager to learn new technologies. 🧑‍💻
+### A developer passionate about problem-solving and eager to learn new technologies. 🧑‍💻
 
 I thrive on overcoming challenges and continuously update my skills to stay current with advancements. 💃
 
-My proactive approach ensures that I quickly adapt to and excel in a rapidly evolving tech landscape. 🌻
+My proactive approach ensures I quickly adapt to and excel in a rapidly evolving tech landscape. 🌻
 <br>
 <br>
 ## 💻 Tech Stack
