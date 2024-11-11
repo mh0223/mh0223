@@ -41,6 +41,15 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 </div>
 <br>
 
+### 🐕 git pets
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mh0223"
+  width="600"
+  height="300"
+/>
+</a>
+
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
