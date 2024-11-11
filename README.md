@@ -50,6 +50,8 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 />
 </a>
 
+<br>
+
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
