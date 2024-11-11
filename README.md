@@ -41,7 +41,7 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 </div>
 <br>
 
-### 🐕 git pets
+## 🐕 git pets
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/mh0223"
