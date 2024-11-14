@@ -29,8 +29,6 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=mh0223&count_private=true&show_icons=true&hide=prs&hide_title=true&hide_border=true)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mh0223&hide_title=true&hide_border=true)
-<br>
 <br>
 ### ✍️ Random Inspiring Quote
 
