@@ -29,9 +29,16 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=mh0223&count_private=true&show_icons=true&hide=prs&hide_title=true&hide_border=true)
 
+
+
 <br>
 
-### ✍️ Random Inspiring Quote
+## Blog
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mh0223)
+
+<br>
+
+## ✍️ Random Inspiring Quote
 
 <div align="left">
   <p><i>"The best way to predict the future is to invent it." – Alan Kay</i></p>
@@ -55,4 +62,6 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer)
+
