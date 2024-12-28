@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20%20%20Shin%20Myung%20Hee&reversal=false&fontSize=50&desc=Frontend%20Developer&descSize=20&descAlignY=33&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=%20%20%20Shin%20Myung%20Hee&reversal=false&fontSize=50&desc=Frontend%20Developer&descSize=20&descAlignY=33&animation=fadeIn&fontAlignY=45)
 
 ## 😙 I am
 ### A developer passionate about problem-solving and eager to learn new technologies. 🧑‍💻
