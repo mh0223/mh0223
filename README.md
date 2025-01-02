@@ -39,7 +39,9 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 <br>
 
 
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer)
 
