@@ -25,13 +25,6 @@ My proactive approach ensures I quickly adapt to and excel in a rapidly evolving
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=mh0223&count_private=true&show_icons=true&hide=prs&hide_title=true&hide_border=true)
 
 
-<br>
-
-## Blog
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/mh0223)
-
-<br>
-
 ## ✍️ Random Inspiring Quote
 
 <div align="left">
